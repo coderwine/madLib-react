@@ -1,0 +1,10 @@
+.cardClass {
+    height: 125px;
+    width: 125px;
+    margin: 1em;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: transparent;
+    /* text-shadow: 2px 2px 2px black; */
+    font-size: 16pt;
+}
